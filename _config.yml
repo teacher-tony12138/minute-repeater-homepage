@@ -1,0 +1,19 @@
+title: MinuteRepeater
+description: A virtual minute repeater app for iOS and Apple Watch
+theme: minima
+languages: ["en", "zh", "ja", "fr", "de", "es", "ru", "ko", "pt", "it", "ar"]
+default_lang: "en"
+email: 18600064502@163.com
+url: "https://yourusername.github.io"
+baseurl: "/minute-repeater-homepage"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+# SEO settings
+lang: en
+author: MinuteRepeater Team
