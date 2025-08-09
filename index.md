@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MinuteRepeater - Virtual Mechanical Minute Repeater
+title: MinuteRepeater - Virtual Mechanical Minute Repeater & Privacy Policy
 lang: en
 ---
 
@@ -40,6 +40,18 @@ A minute repeater is one of the most sophisticated complications in mechanical w
 <p>Available on the App Store for iPhone and Apple Watch</p>
 {% include app-store-badge.html %}
 </div>
+
+### Privacy Policy
+
+We take your privacy seriously. MinuteRepeater app:
+
+- **Collects no personal data**
+- **Does not track user behavior**
+- **Uses no analytics tools**
+- **Contains no advertisements**
+- **All features run locally**
+
+The app works completely offline, and your usage and personal information remain private at all times.
 
 ### Contact
 

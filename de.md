@@ -37,6 +37,18 @@ Eine Minutenrepetition ist eine der anspruchsvollsten Komplikationen in der mech
 
 Verfügbar im App Store für iPhone und Apple Watch.
 
+### Datenschutzrichtlinie
+
+Wir nehmen Ihre Privatsphäre ernst. Die MinuteRepeater-App:
+
+- **Sammelt keine persönlichen Daten**
+- **Verfolgt kein Nutzerverhalten**
+- **Verwendet keine Analyse-Tools**
+- **Enthält keine Werbung**
+- **Alle Funktionen laufen lokal**
+
+Die App funktioniert vollständig offline, und Ihre Nutzung und persönlichen Informationen bleiben jederzeit privat.
+
 ### Kontakt
 
 Für Support oder Anfragen: [18600064502@163.com](mailto:18600064502@163.com)

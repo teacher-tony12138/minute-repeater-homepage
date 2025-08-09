@@ -37,6 +37,18 @@ Uma repetição de minutos é uma das complicações mais sofisticadas na relojo
 
 Disponível na App Store para iPhone e Apple Watch.
 
+### Política de Privacidade
+
+Levamos a sua privacidade a sério. A aplicação MinuteRepeater:
+
+- **Não recolhe dados pessoais**
+- **Não rastreia o comportamento do utilizador**
+- **Não utiliza ferramentas de análise**
+- **Não contém publicidade**
+- **Todas as funcionalidades funcionam localmente**
+
+A aplicação funciona completamente offline, e a sua utilização e informações pessoais permanecem privadas em todos os momentos.
+
 ### Contacto
 
 Para suporte ou consultas: [18600064502@163.com](mailto:18600064502@163.com)

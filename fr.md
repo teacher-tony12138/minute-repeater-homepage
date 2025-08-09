@@ -37,6 +37,18 @@ Une répétition minutes est l'une des complications les plus sophistiquées de 
 
 Disponible sur l'App Store pour iPhone et Apple Watch.
 
+### Politique de Confidentialité
+
+Nous prenons votre vie privée au sérieux. L'application MinuteRepeater :
+
+- **Ne collecte aucune donnée personnelle**
+- **Ne suit pas le comportement des utilisateurs**
+- **N'utilise aucun outil d'analyse**
+- **Ne contient aucune publicité**
+- **Toutes les fonctionnalités fonctionnent localement**
+
+L'application fonctionne entièrement hors ligne, et votre utilisation et informations personnelles restent privées en permanence.
+
 ### Contact
 
 Pour le support ou les demandes : [18600064502@163.com](mailto:18600064502@163.com)
