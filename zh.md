@@ -47,4 +47,4 @@ MinuteRepeater 是一款精美的 iOS 和 Apple Watch 应用程序，将拥有�
 
 ---
 
-**语言选择：** [English](/) | [中文](/zh) | [日本語](/ja) | [Français](/fr) | [Deutsch](/de) | [Español](/es) | [Русский](/ru) | [한국어](/ko) | [Português](/pt) | [Italiano](/it) | [العربية](/ar)
+**语言选择：** [English](./index.html) | [中文](./zh.html) | [日本語](./ja.html) | [Français](./fr.html) | [Deutsch](./de.html) | [Español](./es.html) | [Русский](./ru.html) | [한국어](./ko.html) | [Português](./pt.html) | [Italiano](./it.html) | [العربية](./ar.html)

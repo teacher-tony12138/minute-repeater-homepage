@@ -43,4 +43,4 @@ Para suporte ou consultas: [18600064502@163.com](mailto:18600064502@163.com)
 
 ---
 
-**Idiomas:** [English](/) | [中文](/zh) | [日本語](/ja) | [Français](/fr) | [Deutsch](/de) | [Español](/es) | [Русский](/ru) | [한국어](/ko) | [Português](/pt) | [Italiano](/it) | [العربية](/ar)
+**Idiomas:** [English](./index.html) | [中文](./zh.html) | [日本語](./ja.html) | [Français](./fr.html) | [Deutsch](./de.html) | [Español](./es.html) | [Русский](./ru.html) | [한국어](./ko.html) | [Português](./pt.html) | [Italiano](./it.html) | [العربية](./ar.html)
